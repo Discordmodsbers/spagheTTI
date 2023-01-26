@@ -15,4 +15,4 @@ THIS IS FOR EDUCATIONAL PURPOSES ONLY !
 
 # Installation
 
-``sudo apt update && sudo apt upgrade && git clone github.com/Discordmodsbers/spagheTTI && cd spagheTTI && pip3 install -r requirements.txt && python3 spagheTTI.py``
+``sudo apt update && sudo apt upgrade && git clone github.com/Discordmodsbers/spagheTTI && cd spagheTTI && pip3 install -r requirements.txt && python3 spagheTTI.py -h``
