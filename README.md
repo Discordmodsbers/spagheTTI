@@ -15,4 +15,20 @@ THIS IS FOR EDUCATIONAL PURPOSES ONLY !
 
 # Installation
 
-``sudo apt update && sudo apt upgrade && git clone github.com/Discordmodsbers/spagheTTI && cd spagheTTI && pip3 install -r requirements.txt && python3 spagheTTI.py -h``
+```
+sudo apt update && sudo apt upgrade && git clone github.com/Discordmodsbers/spagheTTI && cd spagheTTI && pip3 install -r requirements.txt && python3 spagheTTI.py -h
+```
+
+# Usage
+
+```
+usage: spagheTTI.py [-h] [-t TARGET] [-p PORT] [-n NAME]
+
+Kewl shit
+
+options:
+  -h, --help            show this help message and exit
+  -t TARGET, --target TARGET Sets The Host
+  -p PORT, --port PORT  Sets The Host Port
+  -n NAME, --name NAME  Sets The Clients Name
+  ```
